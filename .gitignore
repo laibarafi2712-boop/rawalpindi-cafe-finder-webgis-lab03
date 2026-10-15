@@ -1,0 +1,10 @@
+# Ignore legacy working and source materials not required by the public web app.
+*.xlsx
+Lab 3.pdf
+WebGIS_Lab03_24-ARID-2217_Laiba-Rafi*.docx
+WebGIS_Lab03_24-ARID-2217_Laiba-Rafi.pdf
+WebGIS_LAB03_24-ARID-2217_LAIBARAFI.html
+create_lab_template.py
+doc/
+screenshots/
+README.txt
