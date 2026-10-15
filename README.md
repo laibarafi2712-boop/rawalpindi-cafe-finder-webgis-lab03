@@ -52,3 +52,6 @@ Please retain OpenStreetMap attribution when deploying or presenting the map. Pu
 ## Report
 
 The report includes a page-indexed contents guide, project background, study area and data model, interface and workflow, methods, implementation, results and limits, a user guide, the complete cafe inventory, and references.
+
+
+[Download the full WebGIS Lab 03 report (DOCX)](reports/Rawalpindi_Cafe_Finder_WebGIS_Lab03_Report.docx)
