@@ -7,7 +7,7 @@
 **Study area:** Rawalpindi, Punjab, Pakistan  
 **Project:** Pindi Cafe Finder, an interactive cafe directory and route-estimation dashboard
 
-> This README is the complete project report. The contents links jump directly to the numbered topics and subtopics. A formatted Word copy is also available in [`reports/`](reports/Rawalpindi_Cafe_Finder_WebGIS_Lab03_Report.docx).
+> This README is the complete project report. The contents links jump directly to the numbered topics and subtopics.
 
 ## Contents
 
@@ -299,7 +299,6 @@ The following list reproduces the cafe records bundled in `assignment.js`. Ratin
 | `assignment.css` | Dashboard and map styling. |
 | `landing.css` | Animated landing page and responsive behavior. |
 | `cafe-dialog.css` | Cafe details dialog styling. |
-| `reports/Rawalpindi_Cafe_Finder_WebGIS_Lab03_Report.docx` | Supplementary formatted Word copy of this report. |
 
 **Report prepared for:** Laiba Rafi, 24-ARID-2217, WebGIS Lab 03  
 **Date:** 15 October 2026
