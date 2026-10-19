@@ -203,7 +203,7 @@ OpenStreetMap is a collaborative geographic data project. Leaflet is a JavaScrip
 
 ### 10.2 Browser geolocation
 
-After the user allows access, the browser Geolocation API can return device coordinates. Accuracy depends on device sensors and surrounding conditions. The app requests location only when the user selects the location feature and handles permission failure with a status message.
+After the user allows access, the browser Geolocation API can return device coordinates. Accuracy depends on device sensors and surrounding conditions. The app requests location only when the user selects the location feature and reports permission denial, unavailable device location, or a timeout separately. Browser location requires HTTPS or localhost; opening the page directly as a local file may not work.
 
 ### 10.3 Selecting a cafe
 
@@ -284,7 +284,7 @@ The following list reproduces the cafe records bundled in `assignment.js`. Ratin
 
 - Cafe directory reference: [WorldCafeMap Rawalpindi cafes](https://worldcafemap.com/en/pakistan/rawalpindi/cafes)
 - Basemap data attribution: [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)
-- Tile provider: [OpenStreetMap.de](https://www.openstreetmap.de/)
+- Tile provider: [OpenStreetMap standard raster tiles](https://operations.osmfoundation.org/policies/tiles/)
 - Web map library: [Leaflet](https://leafletjs.com/), version 1.9.4
 - Routing service: [OSRM public demo server](https://router.project-osrm.org/)
 - Current business listings and traffic-aware directions: [Google Maps](https://www.google.com/maps)
